@@ -1,2 +1,3 @@
 # Enitnot_Bot
-This is a bot to help me beat some other humans at their own game :)
+
+Welcome to the commit history, hi from the past if you're reading this :D
