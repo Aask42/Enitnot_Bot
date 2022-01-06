@@ -1,3 +1,3 @@
 # Enitnot_Bot
 
-Welcome to the commit history, hi from the past if you're reading this :D
+Public version of a fun bot I wrote recently to check in to a game. 
